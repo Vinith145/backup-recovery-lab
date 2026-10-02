@@ -1,0 +1,29 @@
+# Test outputs (not part of the project)
+restored/
+testdata/
+
+# Backup archives (large binary files)
+backups/
+*.tar.gz
+*.tar
+*.zip
+
+# Logs
+*.log
+logs/
+output/
+
+# Temp
+*.tmp
+*.bak
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
